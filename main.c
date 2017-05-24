@@ -302,7 +302,7 @@ int main(int argc,char *argv[])
 			json_pop(J);
 			}break;
 		default:
-			printf("error\n");
+//			printf("error\n");
 			break;
 	}
 
